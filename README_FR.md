@@ -18,11 +18,11 @@ J’y partage les projets sur lesquels j’ai travaillé, mes playbooks SOAR, ai
 
 | Projet | Description | Compétences / Outils |
 |:--|:--|:--|
-| 🧩 **Playbook d’enrichissement IOC (XSOAR)** | Automatisation de l’enrichissement d’IOC via VirusTotal, AbuseIPDB, MISP, avec actions Cortex XDR / Defender | SOAR, Python, API, CTI |
-| 🕵️ **Détection de vol de token** | Règle KQL/XQL permettant d’identifier le vol de jeton via le cache navigateur | KQL, XQL, MITRE ATT&CK, Threat Hunting |
-| 🛠️ **Déploiement Cortex XDR macOS (Kandji)** | Documentation technique et automatisation du déploiement d’agent XDR via MDM | EDR Build, macOS, MDM |
-| 🧰 **Script d’enrichissement IOC (SOC)** | Automatisation d’enrichissement d’IOC (hash/IP/domaine) avec VirusTotal et AbuseIPDB | Python, API, SOC |
-| 🧱 **Lab d’évasion Windows Defender** | Étude de bypass EDR via payloads légitimes et signatures YARA | Malware Analysis, EDR, Detection Engineering |
+|  **Playbook d’enrichissement IOC (XSOAR)** | Automatisation de l’enrichissement d’IOC via VirusTotal, AbuseIPDB, MISP, avec actions Cortex XDR / Defender | SOAR, Python, API, CTI |
+|  **Détection de vol de token** | Règle KQL/XQL permettant d’identifier le vol de jeton via le cache navigateur | KQL, XQL, MITRE ATT&CK, Threat Hunting |
+|  **Déploiement Cortex XDR macOS (Kandji)** | Documentation technique et automatisation du déploiement d’agent XDR via MDM | EDR Build, macOS, MDM |
+|  **Script d’enrichissement IOC (SOC)** | Automatisation d’enrichissement d’IOC (hash/IP/domaine) avec VirusTotal et AbuseIPDB | Python, API, SOC |
+|  **Lab d’évasion Windows Defender** | Étude de bypass EDR via payloads légitimes et signatures YARA | Malware Analysis, EDR, Detection Engineering |
 
 ---
 
@@ -30,9 +30,9 @@ J’y partage les projets sur lesquels j’ai travaillé, mes playbooks SOAR, ai
 
 | Projet | Objectif | Statut |
 |:--|:--|:--|
-| 🔬 **C Lab — Control Flow & Mémoire** | Apprentissage du C et de la gestion mémoire pour le reverse engineering | 🟡 En cours |
-| ⚙️ **Bibliothèque de playbooks SOAR** | Centralisation et documentation de playbooks XSOAR / Sentinel réutilisables | 🟡 En cours |
-| 🤖 **IA et cybersécurité** | Expérimentation de modèles ML/LLM pour la détection d’anomalies SOC | 🟡 En veille technique |
+|  **C Lab — Control Flow & Mémoire** | Apprentissage du C et de la gestion mémoire pour le reverse engineering | 🟡 En cours |
+|  **Bibliothèque de playbooks SOAR** | Centralisation et documentation de playbooks XSOAR / Sentinel réutilisables | 🟡 En cours |
+|  **IA et cybersécurité** | Expérimentation de modèles ML/LLM pour la détection d’anomalies SOC | 🟡 En veille technique |
 
 ---
 
@@ -65,7 +65,7 @@ Licence : [MIT](./LICENSE)
 ---
 
 > 💬 *« Comprendre le code, c’est comprendre l’attaque. »*  
-> — **JozSEC**
+> — **Le bon sens**
 
 ---
 
