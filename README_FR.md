@@ -65,7 +65,7 @@ Licence : [MIT](./LICENSE)
 ---
 
 > 💬 *« Comprendre le code, c’est comprendre l’attaque. »*  
-> — **Le bon sens**
+> — **Le Bon Sens**
 
 ---
 
