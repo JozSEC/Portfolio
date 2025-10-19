@@ -65,7 +65,7 @@ License: [MIT](./LICENSE)
 ---
 
 > 💬 *"Understanding the code means understanding the attack."*  
-> — **Common Sense**
+> — **The common sense**
 
 ---
 
