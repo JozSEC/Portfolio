@@ -1,4 +1,4 @@
-# 🧠 Cybersecurity Portfolio — JozSEC
+# Cybersecurity Portfolio — JozSEC
 
 Welcome to my technical portfolio focused on **defensive cybersecurity, detection engineering, and incident response**.  
 Here I share the projects I’ve worked on, my SOAR playbooks, and my ongoing learning in **C programming, reverse engineering, and exploit development**.
